@@ -9,3 +9,7 @@ In addition to OpenGreenhouse, I am developing **SQL-Tools**, a console applicat
 2. **Customization**: The application allows for easy customization of query templates and options. You can define and save reusable query templates, create variables for dynamic input, and specify conditions for targeted updates.
 
 3. **User-Friendly Interface**: SQL-Tools offers a console-based interface that simplifies the process of interacting with the tool. It provides clear prompts and instructions, making it accessible to users with varying levels of SQL knowledge.
+
+
+**Future Development:**
+I have plans to expand the functionality of SQL-Tools to cater to a broader range of SQL operations. This includes adding support for querying, inserting, and deleting data, as well as incorporating additional options for filtering and sorting records. I welcome community contributions and feedback to help shape the future direction of the project.
