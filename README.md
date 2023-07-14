@@ -1,5 +1,7 @@
 ## SQL-Tools: Simplifying SQL Query Writing
 
+
+
 I am developing **SQL-Tools**, a console application that aims to streamline the process of writing SQL queries for table updates. This tool is designed to simplify the editing of complex queries involving large numbers of fields. It is particularly useful when updating thousands of records simultaneously, reducing the time and effort required to modify such queries.
 
 ### Features:
