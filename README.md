@@ -6,6 +6,8 @@ I am developing **SQL-Tools**, a console application that aims to streamline the
 
 
 
+
+
 ### Features:
 
 1. **Automation**: SQL-Tools automates the generation of SQL queries, saving you from the manual labor of modifying and updating queries individually. By providing relevant inputs and configurations, the tool will generate the necessary SQL code to update the desired fields efficiently.
